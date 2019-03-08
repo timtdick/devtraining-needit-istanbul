@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <comment>Create HR request Needit Task</comment>
+        <compiled_snapshot>2b3a6335531003003bf1d9109ec58759</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Needit Fulfillment">3e0c62254fcc3300eb717e918110c730</flow>
+        <order>3.2.6.1</order>
+        <parent_ui_id>7c0595fa-ad05-4016-b072-3d1741bc73ae</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
+        <sys_created_on>2019-03-08 16:58:14</sys_created_on>
+        <sys_id>a4875f354f887300eb717e918110c74a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_a4875f354f887300eb717e918110c74a</sys_update_name>
+        <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
+        <sys_updated_on>2019-03-08 16:58:17</sys_updated_on>
+        <ui_id>9459d8d3-e3ad-44db-bde6-dbdc3de6914f</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=a4875f354f887300eb717e918110c74a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a4875f354f887300eb717e918110c74a</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
+        <sys_created_on>2019-03-08 16:58:14</sys_created_on>
+        <sys_id>6c875f354f887300eb717e918110c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
+        <sys_updated_on>2019-03-08 16:58:14</sys_updated_on>
+        <value>x_58872_needit_needit_task</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=a4875f354f887300eb717e918110c74a"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>a4875f354f887300eb717e918110c74a</id>
+        <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
+        <sys_created_on>2019-03-08 16:58:14</sys_created_on>
+        <sys_id>e8875f354f887300eb717e918110c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
+        <sys_updated_on>2019-03-08 16:58:14</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>assigned_to={{1ddf6b4a-9712-4a45-924b-bfe5c671c168.answer.assignee}}^due_date={{1c856d7d-b4d4-431a-8d8a-0e5a2ca7b669.record.u_when_needed}}^short_description=Complete Human Resources NeedIt Task</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>a4875f354f887300eb717e918110c74a</id>
+        <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
+        <sys_created_on>2019-03-08 16:58:14</sys_created_on>
+        <sys_id>28875f354f887300eb717e918110c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
+        <sys_updated_on>2019-03-08 16:58:14</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

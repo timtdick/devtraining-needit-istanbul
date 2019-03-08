@@ -33,12 +33,12 @@
         <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
         <sys_created_on>2019-03-06 21:01:07</sys_created_on>
         <sys_id>beeb39dd4fc03300eb717e918110c7c1</sys_id>
-        <sys_mod_count>27</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
-        <sys_updated_on>2019-03-06 21:20:06</sys_updated_on>
+        <sys_updated_on>2019-03-07 18:59:10</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Needit Approval">8b8ea5d54fc03300eb717e918110c7b5</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
