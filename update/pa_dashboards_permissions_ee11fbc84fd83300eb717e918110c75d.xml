@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Needit Application">84bce7084fd83300eb717e918110c716</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681ccaf9c0a8016400b98a06818d57c7</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>tim.t.dick@gsk.com</sys_created_by>
+        <sys_created_on>2019-03-15 18:36:23</sys_created_on>
+        <sys_id>ee11fbc84fd83300eb717e918110c75d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681ccaf9c0a8016400b98a06818d57c7</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_ee11fbc84fd83300eb717e918110c75d</sys_update_name>
+        <sys_updated_by>tim.t.dick@gsk.com</sys_updated_by>
+        <sys_updated_on>2019-03-15 18:36:23</sys_updated_on>
+        <type>3</type>
+        <user display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>
